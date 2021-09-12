@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Move_window">
         <activity
+            android:name=".TwoActivity"
+            android:exported="true" />
+        <activity
             android:name=".OneActivity"
             android:exported="true" />
         <activity
